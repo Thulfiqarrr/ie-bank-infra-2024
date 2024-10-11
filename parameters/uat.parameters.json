@@ -15,7 +15,7 @@
             "value": "thulfi-asp-uat"
         },
         "appServiceAPIAppName": {
-            "value": "thulfi-uat"
+            "value": "thulfi-be-uat"
         },
         "appServiceAppName": {
             "value": "thulfi-fe-uat"
