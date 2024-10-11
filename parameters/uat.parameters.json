@@ -6,19 +6,19 @@
             "value": "nonprod"
         },
         "postgreSQLServerName": {
-            "value": "thulfi-dbsrv-dev"
+            "value": "thulfi-dbsrv-uat"
         },
         "postgreSQLDatabaseName": {
-            "value": "thulfi-db-dev"
+            "value": "thulfi-db-uat"
         },
         "appServicePlanName": {
-            "value": "thulfi-asp-dev"
+            "value": "thulfi-asp-uat"
         },
         "appServiceAPIAppName": {
-            "value": "thulfi-be-dev"
+            "value": "thulfi-uat"
         },
         "appServiceAppName": {
-            "value": "thulfi-fe-dev"
+            "value": "thulfi-fe-uat"
         },
         "location": {
             "value": "North Europe"
